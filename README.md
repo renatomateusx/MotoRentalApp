@@ -1,10 +1,12 @@
 # Preview
 
-<img width="978" alt="TestsPassed" src="https://github.com/user-attachments/assets/0bc40710-67d1-4024-a4b0-21ddb0d2b134">
-<img width="978" alt="BuildPassed" src="https://github.com/user-attachments/assets/b4d1b6e4-78f8-4428-9b2e-0d332c3cfc92">
-<img width="1505" alt="Screenshot 2024-08-12 at 09 55 54" src="https://github.com/user-attachments/assets/a30865a3-4b06-43d5-baaf-38ddcfd85926">
-<img width="978" alt="Screenshot 2024-08-12 at 10 43 31" src="https://github.com/user-attachments/assets/91fc7479-768e-4642-8247-0b40fc55ab21">
-<img width="1445" alt="Screenshot 2024-08-12 at 13 34 54" src="https://github.com/user-attachments/assets/df673562-1150-42b4-8cb3-ef3c41735312">
+<img width="466" alt="Screenshot 2024-08-12 at 09 15 35" src="https://github.com/user-attachments/assets/49b056f7-8e77-42d6-b010-bbe98636c68c">
+<img width="978" alt="TestsPassed" src="https://github.com/user-attachments/assets/1937ed7f-1511-4419-98e1-6a6ca9ebd0f1">
+<img width="978" alt="BuildPassed" src="https://github.com/user-attachments/assets/8f064fbf-ed96-4437-a7d5-686d1bd21f2d">
+<img width="1505" alt="Screenshot 2024-08-12 at 09 55 54" src="https://github.com/user-attachments/assets/05d56491-2fd0-4d1e-974d-9c48f76d43e2">
+<img width="978" alt="Screenshot 2024-08-12 at 10 43 31" src="https://github.com/user-attachments/assets/ea7842af-021e-4a79-b967-5d56ad03debb">
+<img width="1445" alt="Screenshot 2024-08-12 at 13 34 54" src="https://github.com/user-attachments/assets/55f51555-4936-4d76-a1d2-d18b7c8d1550">
+
 
 # Used:
 
