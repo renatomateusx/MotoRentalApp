@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotoRentalApp", "MotoRentalApp\MotoRentalApp.csproj", "{DD90997E-427C-4C6B-892C-91A7BB53A79E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MotoRentalApp (1)", "MotoRentalApp", "{50F77F05-6397-46F5-9AB8-57798D3D51DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotoRentalApp.Tests", "MotoRentalApp\MotoRentalApp.Tests\MotoRentalApp.Tests.csproj", "{3C44541C-76A7-4AFE-94B2-ACFC620E31E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD90997E-427C-4C6B-892C-91A7BB53A79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD90997E-427C-4C6B-892C-91A7BB53A79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD90997E-427C-4C6B-892C-91A7BB53A79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD90997E-427C-4C6B-892C-91A7BB53A79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C44541C-76A7-4AFE-94B2-ACFC620E31E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C44541C-76A7-4AFE-94B2-ACFC620E31E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C44541C-76A7-4AFE-94B2-ACFC620E31E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C44541C-76A7-4AFE-94B2-ACFC620E31E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3C44541C-76A7-4AFE-94B2-ACFC620E31E1} = {50F77F05-6397-46F5-9AB8-57798D3D51DB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E574D40-AB9D-4848-AB5A-5CF0FA404DC5}
+	EndGlobalSection
+EndGlobal

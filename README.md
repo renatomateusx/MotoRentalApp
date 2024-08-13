@@ -1,3 +1,20 @@
+# Preview
+
+<img width="978" alt="TestsPassed" src="https://github.com/user-attachments/assets/0bc40710-67d1-4024-a4b0-21ddb0d2b134">
+<img width="978" alt="BuildPassed" src="https://github.com/user-attachments/assets/b4d1b6e4-78f8-4428-9b2e-0d332c3cfc92">
+<img width="1505" alt="Screenshot 2024-08-12 at 09 55 54" src="https://github.com/user-attachments/assets/a30865a3-4b06-43d5-baaf-38ddcfd85926">
+<img width="978" alt="Screenshot 2024-08-12 at 10 43 31" src="https://github.com/user-attachments/assets/91fc7479-768e-4642-8247-0b40fc55ab21">
+<img width="1445" alt="Screenshot 2024-08-12 at 13 34 54" src="https://github.com/user-attachments/assets/df673562-1150-42b4-8cb3-ef3c41735312">
+
+# Used:
+
+>> .Net Version 8.0.7
+>> Postgree
+>> Docker
+>> SNS
+>> Unit tests with Moq
+
+# Project
 # Desafio backend Mottu.
 Seja muito bem-vindo ao desafio backend da Mottu, obrigado pelo interesse em fazer parte do nosso time e ajudar a melhorar a vida de milhares de pessoas.
 
